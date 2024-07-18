@@ -1,0 +1,26 @@
+A SAAM31
+C Insert Control lines 2,3,4 here as needed
+C Nama data
+H PAR
+	IC(1)	20000
+	L(2,1)	0.6	0	10
+	L(0,2)	1.5	0	10
+	P(2)	100	0	100
+
+H DAT
+C Insert data values here
+XG(2)=F(2)/P(2)
+101G(2)			FSD=0.1
+		0	0
+		0.25	32.70
+		0.5	51.60
+		0.75	61.42
+		1	65.33
+		1.25	65.50
+		1.5	63.37
+		2	55.75
+		2.5	46.81
+		3	38.37
+		4	24.90
+		5	15.85
+		6	10.02
