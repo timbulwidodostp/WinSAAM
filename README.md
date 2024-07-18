@@ -1,8 +1,6 @@
 # WinSAAM
 Tutorial (Guide) WinSAAM (Windows-based Simulation Analysis and Modeling-WinSAAM Project Group)
 
-Tutorial (Guide) WinSAAM (Windows-based Simulation Analysis and Modeling-WinSAAM Project Group)
-
 WinSAAM is a Windows version of original interactive biological modeling program
 
 WinSAAM software (Windows-based Simulation Analysis and Modeling-WinSAAM Project Group, University of Pennsylvania) was used to analyze data with compartmental analysis
