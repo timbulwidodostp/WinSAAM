@@ -7,6 +7,8 @@ WinSAAM software (Windows-based Simulation Analysis and Modeling-WinSAAM Project
 
 The WinSAAM modeling software is an integrated package of mathematical, simula-tion, and graphical tools for analysis of biokinetic data
 
+https://www.youtube.com/watch?v=wrRcNBOap5Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
